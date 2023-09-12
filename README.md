@@ -2,9 +2,9 @@
 
 This repository contains Python implementations of Linear Regression and Logistic Regression for two common machine learning tasks:
 - predicting house prices using [Linear Regression](Linear_Regression/LinearRegression.ipynb).
-    <img src="imgs/linear.png">
+    <img src="imgs/linear.png" width="500px">
 - classifying data using [Logistic Regression](Logistic_Regression/LogisticRegression.ipynb).
-    <img src="imgs/logistic.png">
+    <img src="imgs/logistic.png" width="500px">
 
 ### Dependencies
 - Python >= 3.8
