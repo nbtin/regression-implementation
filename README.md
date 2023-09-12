@@ -1,6 +1,6 @@
-# Linear & Logistic Regression Implementation using Numpy
+# Linear Regression & Logistic Regression Implementation
 
-This repository contains Python implementations of Linear Regression and Logistic Regression for two common machine learning tasks:
+This repository contains Python implementations (with [Numpy](https://numpy.org/)) of Linear Regression and Logistic Regression for two common machine learning tasks:
 
 - predicting house prices using [Linear Regression](Linear_Regression/LinearRegression.ipynb).
 
